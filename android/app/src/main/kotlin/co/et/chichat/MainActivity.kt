@@ -1,0 +1,6 @@
+package co.et.chichat
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
